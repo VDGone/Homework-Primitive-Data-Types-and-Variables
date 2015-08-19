@@ -1,0 +1,6 @@
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.csprojResolveAssemblyReference.cache

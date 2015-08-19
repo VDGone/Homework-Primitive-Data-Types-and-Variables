@@ -1,0 +1,6 @@
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\1.DeclareVariables\obj\Debug\1.DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

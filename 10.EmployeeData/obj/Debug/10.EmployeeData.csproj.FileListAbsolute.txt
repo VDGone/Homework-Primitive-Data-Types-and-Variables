@@ -1,0 +1,6 @@
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\10.EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

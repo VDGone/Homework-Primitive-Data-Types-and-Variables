@@ -1,0 +1,6 @@
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe.config
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.pdb
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.exe
+C:\Users\vesko\Desktop\C#\Homework-Primitive Data Types and Variables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.pdb
